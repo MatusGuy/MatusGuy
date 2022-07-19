@@ -1,14 +1,11 @@
-I'm a Python and Lua programmer with a few months of experience
+I'm a programmer with months of experience, mostly work on higher-level things
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=matusguy&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 ***
 
-I use Lua to work on projects related to Roblox:
-- [Mt, the window manager _(for now)_](https://github.com/Mt-roblox/Mt)
-- [RoboSwitcher, a _(buggy)_ puzzle platformer _(my first project)_](https://www.roblox.com/games/7390680031/RoboSwitcher)
-  - RoboSwitcher Deluxe _(RoboSwitcher 2, private for now)_
+I use Lua to work on projects related to Roblox, like [Mt](https://github.com/Mt-roblox/) and [files2inst](https://github.com/MatusGuy/files2inst/)
 
-I use Python to work on:
-- Sometimes micro:bit _(private repositories)_
-- Lego Mindstorms EV3 programs _(don't even have repositories for them)_
-- Desktop apps _(using PyQt5)_
-  - [youtube-dl GUI (hiatus)](https://github.com/MatusGuy/youtube-dl_GUI)
-  - [SMSC - Start Menu Shortcut Creator _(for now, this is a command line app)_](https://github.com/MatusGuy/smsc)
+I use Python to work on desktop apps, like the retired [youtube-dl GUI](https://github.com/MatusGuy/youtube-dl_GUI/)
+
+I've used Java to make an Android app.
