@@ -1,6 +1,6 @@
 I'm a programmer with months of experience, mostly work on higher-level things
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=matusguy&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=matusguy&show_icons=true&locale=en&layout=compact&theme=darcula" alt="ovi" />
 
 ***
 
