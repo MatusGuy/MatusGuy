@@ -1,9 +1,3 @@
-I'm a programmer with a year of experience, mostly work on higher-level things
+im about to be responsible for a bunch of qt 5 to qt 6 ports :trollface:
 
-***
-
-I use Lua to work on projects related to Roblox, like [Mt](https://github.com/Mt-roblox/) and [files2inst](https://github.com/MatusGuy/files2inst/)
-
-I use Python to work on desktop apps, like the retired [youtube-dl GUI](https://github.com/MatusGuy/youtube-dl_GUI/)
-
-I've used Java to make an Android app.
+also i love qt and hate mac because building for mac when there is no mac is a pain
